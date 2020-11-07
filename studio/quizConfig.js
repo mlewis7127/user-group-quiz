@@ -1,7 +1,7 @@
 export default {
   localWebHost: 'http://localhost:3000', // default Vue port
   localApiHost: 'http://localhost:3000', // default Now API port
-  remoteWebHost: 'user-group-quiz.now.sh',
+  remoteWebHost: 'https://user-group-quiz.mlewis7127.vercel.app/',
   match: {
     correctAnswerScore: 100,
     firstAnswerScore: 50
